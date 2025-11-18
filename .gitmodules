@@ -1,0 +1,3 @@
+[submodule "applications/aiDAPTIV-Integration-Obsidian"]
+	path = applications/aiDAPTIV-Integration-Obsidian
+	url = https://github.com/aiDAPTIV-Phison/aiDAPTIV-Integration-Obsidian.git
